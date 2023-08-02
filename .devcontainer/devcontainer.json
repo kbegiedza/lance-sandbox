@@ -1,10 +1,20 @@
 {
-    "name": "Jupyter Base",
-    "image": "ghcr.io/ulfsoft-harbour/jupyter:base-py3.11",
-    "features": {
-        "ghcr.io/devcontainers/features/docker-in-docker:2.2.0": {
-            "moby": false
-        }
-    },
-    "remoteUser": "jovyan"
+	"name": "Jupyter Base",
+	"image": "ghcr.io/ulfsoft-harbour/jupyter:base-py3.11",
+	"features": {
+		"ghcr.io/devcontainers/features/docker-in-docker:2.2.1": {
+			"moby": false
+		}
+	},
+	"remoteUser": "jovyan",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter-keymap",
+				"ms-toolsai.jupyter",
+				"ms-python.python",
+				"ms-python.vscode-pylance"
+			]
+		}
+	}
 }
