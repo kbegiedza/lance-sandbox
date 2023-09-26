@@ -1,8 +1,10 @@
 {
 	"name": "Jupyter Base",
-	"image": "ghcr.io/ulfsoft-harbour/jupyter:base-py3.11",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
 	"features": {
-		"ghcr.io/devcontainers/features/docker-in-docker:2.2.1": {
+		"ghcr.io/devcontainers/features/docker-in-docker:2.5.0": {
 			"moby": false
 		}
 	},
