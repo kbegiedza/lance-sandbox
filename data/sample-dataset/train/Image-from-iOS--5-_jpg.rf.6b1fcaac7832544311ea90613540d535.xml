@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Image-from-iOS--5-_jpg.rf.6b1fcaac7832544311ea90613540d535.jpg</filename>
+	<path>Image-from-iOS--5-_jpg.rf.6b1fcaac7832544311ea90613540d535.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>233</xmax>
+			<ymin>277</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

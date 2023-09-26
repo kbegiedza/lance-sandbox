@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PXL_20210429_193740691_jpg.rf.4f890d801efd6cbdc3ff49d483a55d17.jpg</filename>
+	<path>PXL_20210429_193740691_jpg.rf.4f890d801efd6cbdc3ff49d483a55d17.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>old logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>100</xmin>
+			<xmax>292</xmax>
+			<ymin>192</ymin>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

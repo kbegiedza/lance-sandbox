@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>streamlit_selfie_jpeg_jpg.rf.89098783def1a32ae7f6134b38320249.jpg</filename>
+	<path>streamlit_selfie_jpeg_jpg.rf.89098783def1a32ae7f6134b38320249.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>261</xmin>
+			<xmax>345</xmax>
+			<ymin>262</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

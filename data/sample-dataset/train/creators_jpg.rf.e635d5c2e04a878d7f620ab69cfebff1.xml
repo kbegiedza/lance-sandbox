@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>creators_jpg.rf.e635d5c2e04a878d7f620ab69cfebff1.jpg</filename>
+	<path>creators_jpg.rf.e635d5c2e04a878d7f620ab69cfebff1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dark logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>81</xmax>
+			<ymin>278</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>old logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>223</xmax>
+			<ymin>319</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>old logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>127</xmax>
+			<ymin>324</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dark logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>57</xmax>
+			<ymin>323</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>259</xmin>
+			<xmax>306</xmax>
+			<ymin>153</ymin>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

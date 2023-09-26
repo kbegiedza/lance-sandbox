@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>photo_2021-05-03-19-10-01_jpeg_jpg.rf.859dac82264752a28a52e4739eefd6cd.jpg</filename>
+	<path>photo_2021-05-03-19-10-01_jpeg_jpg.rf.859dac82264752a28a52e4739eefd6cd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dark logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>150</xmax>
+			<ymin>104</ymin>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
